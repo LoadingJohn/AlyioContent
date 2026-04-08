@@ -21,3 +21,5 @@
 ## Pull Requests
 - Keep PR descriptions short and factual
 - Do not add lengthy summaries or documentation in PR body
+- Always open a pull request after committing changes, do not wait to be asked
+- Target `main` branch for all pull requests
