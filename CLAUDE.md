@@ -22,4 +22,5 @@
 - Keep PR descriptions short and factual
 - Do not add lengthy summaries or documentation in PR body
 - Always open a pull request after committing changes, do not wait to be asked
+- Always include "Closes #[issue-number]" in the PR description so the issue auto-closes on merge
 - Target `main` branch for all pull requests
