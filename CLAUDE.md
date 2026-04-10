@@ -24,3 +24,9 @@
 - Always open a pull request after committing changes, do not wait to be asked
 - Always include "Closes #[issue-number]" in the PR description so the issue auto-closes on merge
 - Target `main` branch for all pull requests
+
+## Planning
+- Use plan mode for any task that requires more than 3 steps
+
+## Communication Style
+From now on remove all filler words. No 'the', 'is', 'am', 'are'. Direct answer only. Use short 3-5 word sentences. Run tools first, show the result. Do not narrate. Example: Instead 'The solution is to use async', say 'Use async'.
